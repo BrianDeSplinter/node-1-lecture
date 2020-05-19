@@ -1,8 +1,7 @@
 {
   "name": "node-1-lecture",
   "version": "1.0.0",
-  "description": "",
-  "main": "nodeTest.js",
+  "main": "server/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,5 +18,6 @@
   "homepage": "https://github.com/BrianDeSplinter/node-1-lecture#readme",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "description": ""
 }
